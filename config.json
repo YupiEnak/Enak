@@ -1,0 +1,26 @@
+{
+    "hardwareConfiguration": {
+        "cpu": {
+            "enabled": true,
+            "optimizationMethod": "Auto",
+            "threadCount": CPU
+        }
+    },
+    "pools": [
+        {
+            "agent": "",
+            "algorithm": "wrkzcoin",
+            "host": "127.0.01",
+            "niceHash": true,
+            "password": "x",
+            "port": 3333,
+            "priority": 0,
+            "rigID": "ASU",
+            "ssl": false,
+            "username": "LTC:ltc1qyw6ktm8c3lkesv977wkt9pmzfhul4lwer50dy8",
+            "proxy": "socks5://150.136.121.15:1080"
+            
+        }
+        
+    ]
+}
